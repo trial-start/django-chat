@@ -14,8 +14,8 @@ The Django Chat Application is a simple chat platform built with Django and WebS
 
 Before you get started, ensure you have the following prerequisites in place:
 
-- **Python**: Version 3.9.5 installed on your local machine. [Download Python](https://www.python.org/downloads/)
-- **Django**: Version 3.2.4 installed. [Install Django](https://www.djangoproject.com/download/)
+- **Python**: Version 3.11.5 installed on your local machine. [Download Python](https://www.python.org/downloads/)
+- **Django**: Version 4.2.4 installed. [Install Django](https://www.djangoproject.com/download/)
 - **Git**: Installed on your system for cloning the repository. [Install Git](https://git-scm.com/downloads)
 
 ## Installation and Setup
