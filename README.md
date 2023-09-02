@@ -55,7 +55,7 @@ Before you get started, ensure you have the following prerequisites in place:
 
 6. **Access the Chat Application**:
 
-    Open your web browser and navigate to [http://localhost:8000](http://localhost:8000) to start using the chat application.
+    Open your web browser and navigate to [http://127.0.0.1:8000](http://127.0.0.1:8000) to start using the chat application.
 
 ## Usage
 
