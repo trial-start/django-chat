@@ -3,12 +3,12 @@
 [![Django](https://img.shields.io/badge/Django-4.2.4-brightgreen.svg)](https://www.djangoproject.com/)
 [![Python](https://img.shields.io/badge/Python-3.11.5-blue.svg)](https://www.python.org/)
 
-The Django Chat Application is a real-time chat platform built with Django and WebSocket technology. It empowers users to create chat rooms, join existing ones, and engage in real-time conversations. With its user-friendly interface, connecting with friends, colleagues, or online communities has never been easier.
+The Django Chat Application is a simple chat platform built with Django and WebSocket technology.
 
 ## Features
 
 - **Create Chat Rooms**: Set up your own chat rooms and moderate discussions.
-- **Real-Time Messaging**: Enjoy seamless real-time communication within chat rooms.
+- **Real-Time Messaging**: Enjoy seamless communication within chat rooms.
 - **User-Friendly Interface**: A clean and intuitive design for an enhanced user experience.
 
 ## Prerequisites
@@ -60,18 +60,22 @@ Before you get started, ensure you have the following prerequisites in place:
 
 ## Usage
 
-1. **Open the Chat Application**:
+1. **Open the Chat Application**: Open your web browser and navigate to the chat application's URL.
 
-   Open your web browser and navigate to the URL where you've hosted the chat application.
+2. **Enter a Chat Room**:
+   - **Create a New Chat Room**:
+     - Enter a room name in the "Room Name" input field.
+     - Enter your username in the "Username" input field.
+     - Click the "Enter Room" button.
+     - You'll become the moderator of the new chat room.
 
-2. **Create or Join a Chat Room**:
+   - **Join an Existing Chat Room**:
+     - Navigate to same chat application's URL in a new tab
+     - Enter the name of the chat room you want to join in the "Room Name" input field.
+     - Enter your username in the "Username" input field.
+     - Click the "Enter Room" button.
+     - You'll join the existing chat room as a participant.
 
-   - **Create a New Chat Room**: Click on the "Create New Room" button or a similar option (if available). Enter a room name or choose one, and you'll become the moderator.
-   - **Join an Existing Room**: To join an existing chat room, click on the "Join Room" button or a similar option. Enter the room's name or select from the available rooms. You'll join the chat as a participant.
 
-3. **Start Sending Real-Time Messages**:
 
-   Once you're inside a chat room, start sending real-time messages to other participants. Simply type your message in the text input field and press Enter or click the "Send" button.
-
-Enjoy seamless real-time communication with the Django Chat Application!
 
