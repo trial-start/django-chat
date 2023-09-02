@@ -1,7 +1,7 @@
 # Django Chat Application
 
-[![Django](https://img.shields.io/badge/Django-3.2.4-brightgreen.svg)](https://www.djangoproject.com/)
-[![Python](https://img.shields.io/badge/Python-3.9.5-blue.svg)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-4.2.4-brightgreen.svg)](https://www.djangoproject.com/)
+[![Python](https://img.shields.io/badge/Python-3.11.5-blue.svg)](https://www.python.org/)
 
 The Django Chat Application is a real-time chat platform built with Django and WebSocket technology. It empowers users to create chat rooms, join existing ones, and engage in real-time conversations. With its user-friendly interface, connecting with friends, colleagues, or online communities has never been easier.
 
