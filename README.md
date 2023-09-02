@@ -8,7 +8,6 @@ The Django Chat Application is a simple chat platform built with Django and WebS
 ## Features
 
 - **Create Chat Rooms**: Set up your own chat rooms and moderate discussions.
-- **Real-Time Messaging**: Enjoy seamless communication within chat rooms.
 - **User-Friendly Interface**: A clean and intuitive design for an enhanced user experience.
 
 ## Prerequisites
